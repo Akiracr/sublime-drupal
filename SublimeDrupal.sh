@@ -68,7 +68,10 @@ git clone https://github.com/SublimeText/TrailingSpaces.git
 git clone git://github.com/tanc/st2-drupal-autocomplete.git
 
 # Git
-#git clone https://github.com/kemayo/sublime-text-2-git.git
+git clone https://github.com/kemayo/sublime-text-2-git.git
+
+# Theme - Soda
+git clone  https://github.com/buymeasoda/soda-theme/ "Theme - Soda";
 
 # fetch specific color schemas for soda theme
 cd "Theme - Soda"
