@@ -73,6 +73,9 @@ git clone https://github.com/kemayo/sublime-text-2-git.git
 # Theme - Soda
 git clone  https://github.com/buymeasoda/soda-theme/ "Theme - Soda";
 
+# Soda Theme
+git clone https://github.com/buymeasoda/soda-theme/ "Theme - Soda"
+
 # fetch specific color schemas for soda theme
 cd "Theme - Soda"
 wget http://buymeasoda.github.com/soda-theme/extras/colour-schemes.zip 
